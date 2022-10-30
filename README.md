@@ -5,7 +5,7 @@
 |  Facebook  |  [@junjunkoumoto](https://www.facebook.com/junjunkoumoto)  |
 |  Qiita  | [@koumotoj](https://qiita.com/koumotoj)  |
 |  Instagram  |  [@junjunkoumoto](https://www.instagram.com/junjunkoumoto/)  |
-|  趣味  |  読書(技術書、新書)  |
+|  趣味  |  読書(技術書、新書、哲学書)  |
 |  大学  |  神戸大学　理学部　化学科 卒業 |
 |  大学院  |  神戸情報大学院大学　情報技術研究科　情報システム専攻　修了  |
 
